@@ -1,0 +1,24 @@
+.logoimg{
+    padding: 15px;
+    margin: 15px;
+    border: 2px solid rgb(58, 74, 165);
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+}
+.img{
+   
+    display: flex;
+    justify-content: center;
+}
+.link{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+.link a{
+    padding: 45px;
+    text-decoration: none;
+    color: #0b5c87;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
