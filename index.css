@@ -5,12 +5,19 @@
     border-radius: 50px;
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
+}
+.picimg{
+    display: flex;
+    flex-wrap: wrap;
 }
 .img{
    
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
 }
+
 .link{
     display: flex;
     justify-content: center;
